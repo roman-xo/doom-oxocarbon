@@ -7,7 +7,7 @@ This theme aims to be:
 - Idiomatic to Doom's theming system
 - Lightweight, readable, and actively maintained
 
-Unlike previous Emacs ports, **doom-oxocarbon**:
+Unlike some previous Emacs ports, doom-oxocarbon:
 - Uses Doom's theme APIs correctly
 - Avoids outdated face definitions
 - Works consistently across Doom modules and Org mode
@@ -63,8 +63,3 @@ By default, doom-oxocarbon has brightwhite set for foreground text. To save your
 ```
 
 This affects plain text only.
-
-
-## License
-
-MIT
