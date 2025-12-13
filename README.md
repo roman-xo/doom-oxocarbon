@@ -16,10 +16,10 @@ Unlike previous Emacs ports, **doom-oxocarbon**:
 
 ## Screenshots
 
-(images/img1.png)
-(images/img2.png)
-(images/img4.png)
-(images/img5.png)
+![image](images/img1.png)
+![image](images/img2.png)
+![image](images/img4.png)
+![image](images/img5.png)
 ---
 
 ## Installation
