@@ -61,5 +61,3 @@ By default, doom-oxocarbon has brightwhite set for foreground text. To save your
   (custom-set-faces!
    '(default :foreground "#bbc2cf")))
 ```
-
-This affects plain text only.
