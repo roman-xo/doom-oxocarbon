@@ -53,7 +53,7 @@ doom sync
 
 ## Softer Foreground
 
-By default, doom-oxocarbon has brightwhite set for foreground text. To save your eyes, you can can override the default face in your Doom config:
+By default, doom-oxocarbon has brightwhite set for foreground text. If you want a softer look, you can can override the default face in your Doom config:
 
 ```elisp
 (after! doom-themes
