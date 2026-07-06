@@ -1,16 +1,15 @@
 # doom-oxocarbon
 
-A modern Emacs theme ported from the Neovim theme **oxocarbon**, inspired by IBM Carbon design language, and built to integrate  with Doom Emacs.
+A modern Emacs theme port of the Neovim theme **oxocarbon**, inspired by IBM Carbon design language, and built to integrate with Doom Emacs.
 
 This theme aims to be:
 - Faithful to oxocarbon's contrast and color intent
 - Idiomatic to Doom's theming system
-- Lightweight, readable, and actively maintained
 
-Unlike some previous Emacs ports, doom-oxocarbon:
+Unlike previous Emacs ports, doom-oxocarbon:
 - Uses Doom's theme APIs correctly
 - Avoids outdated face definitions
-- Works consistently across Doom modules and Org mode
+- Works consistently across Doom modules and Org-mode
 
 ---
 
@@ -37,7 +36,7 @@ git clone https://github.com/roman-xo/doom-oxocarbon ~/.config/doom/themes/doom-
 (setq doom-theme 'doom-oxocarbon)
 ```
 
-3. Ensure Doom knows where to find the theme:
+3. Define theme search path:
 
 ```elisp
 (add-to-list 'custom-theme-load-path "~/.config/doom/themes/doom-oxocarbon")
