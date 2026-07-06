@@ -1,6 +1,6 @@
 # doom-oxocarbon
 
-A modern Emacs port of the Neovim theme **oxocarbon**, inspired by IBM Carbon design language, and built to integrate with Doom Emacs.
+A modern Emacs port of the Neovim Oxocarbon theme, inspired by IBM's Carbon Design System and designed for integration with Doom Emacs.
 
 This theme aims to be:
 - Faithful to oxocarbon's contrast and color intent
